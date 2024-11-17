@@ -1,7 +1,0 @@
-Shuet Yang Tan
-
-- EDA
-https://colab.research.google.com/drive/1dvD1OaWKO9RyxtF78NRsEKbFrOr62xU8?usp=sharing
-
-- GLM
-https://colab.research.google.com/drive/1kDodOz7_Fo3G7IT3X6XtvlX3_Jy5gwvu?usp=sharing
